@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">UTSProgmob</string>
+    <string name="data_diri">Data Diri</string>
+    <string name="daftar_dsn">Daftar Dosen</string>
+    <string name="daftar_makul">Daftar Matkul</string>
+    <string name="kelola_krs">Kelola KRS</string>
+    <string name="daftar_mhs">Daftar Mahasiswa</string>
+    <string name="nama">Nama</string>
+    <string name="nidn">NIDN</string>
+    <string name="alamat">Alamat</string>
+    <string name="email">Email</string>
+    <string name="gelar">Gelar</string>
+    <string name="foto">Foto</string>
+    <string name="browse">Browse</string>
+    <string name="simpan">Simpan</string>
+    <string name="kode">Kode</string>
+    <string name="matkul">Mata Kuliah</string>
+    <string name="dosen">Dosen</string>
+    <string name="nim">NIM</string>
+    <string name="sks">SKS</string>
+    <string name="hari">Hari</string>
+    <string name="sesi">Sesi</string>
+    <string name="daf_krs">Daftar KRS</string>
+    <string name="kelas">Lihat Kelas</string>
+    <string name="si_krs">SI - KRS</string>
+    <string name="sign_in_adm">SIGN IN ADMIN</string>
+    <string name="password">password</string>
+    <string name="sign_in_dsn">SIGN IN DOSEN</string>
+    <string name="garis">-</string>
+    <string name="dsn_pengampu">Dosen Pengampu</string>
+    <string name="jml_mhs">Jumlah Mahasiswa</string>
+    <string name="jml_sks">Jumlah SKS</string>
+    <string name="textview" />
+</resources>
